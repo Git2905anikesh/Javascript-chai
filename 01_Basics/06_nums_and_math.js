@@ -40,4 +40,4 @@ console.log(Math.pow(2, 3)); // 2 to the power of 3
 console.log(2 ** 3); // This is another way to do exponentiation in JavaScript
 console.log(Math.sqrt(16)); // Square root of 16
 
-// There are many more methods and properties in the Math object. You can check them out in the MDN documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+// There are many more methods and properties in the Math object. You can check them out in the MDN documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math 
